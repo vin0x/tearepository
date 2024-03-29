@@ -3,7 +3,7 @@ import instaloader
 import os
 import glob
 
-api_key = "6822759006:AAHHqeFH1ab9KRXfYGNH2Mq2jb3cT1CQ3rg" 
+api_key = "" 
 
 bot = telebot.TeleBot(api_key)
 
